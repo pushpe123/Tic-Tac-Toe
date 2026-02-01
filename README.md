@@ -7,8 +7,7 @@ Tic-Tac-Toe is a 2-player pencil-and-paper game played on a \(3\times 3\) grid, 
 * Winning Announcements: When a player wins the game, our Tic-Tac-Toe application will proudly display the victorious player's name and a celebratory message. It's not just about winning; it's about enjoying the thrill of victory!
 * Easy Reset: Want to start a new game? No problem! A convenient reset button allows you to quickly clear the board and begin a fresh match.
 # Technologies Used
-*HTML
-*CSS
-*JAVASCRIPT
-
+*Html
+*Css
+*JavaScript
 
